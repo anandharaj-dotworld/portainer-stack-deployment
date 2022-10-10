@@ -25,7 +25,7 @@ jobs:
         variables: '{"image": "hello-world"}'
 ```
 
-## Inputs
+
 
 The following inputs are available:
 
